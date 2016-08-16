@@ -1,6 +1,6 @@
 Python
 
 Archivo dummy para demostrar 
-
+como
 Se hace una modificacion del contenido
-la sincronizacion
+cuando hay cambios simultaneos
